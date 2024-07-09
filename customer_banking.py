@@ -31,5 +31,5 @@ def main():
     print(f"Your CD interest earned is ${interest_earned:.2f} and your updated CD account balance is ${updated_cd_balance:.2f}.")
 
 if __name__ == "__main__":
-    # Call the main function.
+    # Call the main function
     main()
